@@ -1,42 +1,39 @@
-# CS255-System-Analysis-and-Design
-A complete portfolio of my CS255 System Analysis and Design work, including Business Requirements Documents, UML diagrams, activity diagrams, and scheduling artifacts for the DriverPass case study.
-
 **CS255 System Analysis and Design
 
 DriverPass Project Portfolio**
 
-This repository contains the complete set of system analysis and design artifacts I created while completing CS255: System Analysis and Design at Southern New Hampshire University. The project focuses on designing a proposed web-based scheduling and training system for a company called DriverPass.
+This repository showcases the complete set of system analysis and design artifacts I created for CS255: System Analysis and Design at Southern New Hampshire University. The course centered on analyzing and documenting the proposed system for DriverPass, a company that provides driver training, scheduling, and online practice test services.
 
-The work completed in this course demonstrates the core competencies of a systems analyst, including requirements gathering, use case modeling, activity modeling, and structured documentation aligned with industry standards.
+The work in this repository demonstrates the foundational responsibilities of a systems analyst, including requirements collection, UML modeling, structured documentation, and translating stakeholder interviews into precise system artifacts.
 
-📘 Project Summary
+📘 Project Overview
 
-DriverPass is a company that provides driver training, online practice tests, and on-the-road lesson scheduling. My analysis included:
+The DriverPass project required designing a secure, cloud-based system that allows customers to:
 
-Identifying all system actors
+Create accounts and manage personal information
 
-Gathering functional and nonfunctional requirements
+Purchase driving lesson packages
 
-Creating UML use case diagrams
+Schedule, modify, and cancel driving lessons
 
-Creating activity and sequence diagrams
+Access online practice tests and track progress
 
-Mapping dependencies and time requirements using a Gantt chart
+Interact with office staff, instructors, and system administrators
 
-Designing structured Business Requirements Documents (BRDs)
+The system also integrates with external services, such as the Department of Motor Vehicles (DMV) for updated policies and the notification service for confirmations.
 
-All work strictly follows APA 7 expectations, properly articulated abbreviations, and clearly separated purpose, background, goals, and objectives.
+This repository captures each step of that analysis process.
 
 📁 Repository Contents
-📝 Business Requirements Document
+1. Business Requirements Document (BRD)
 
-A complete BRD including:
+A structured BRD including:
 
-Purpose
+High-level system purpose
 
-System background
+Detailed system background
 
-Goals and measurable objectives
+Clearly separated goals and measurable objectives
 
 Functional and nonfunctional requirements
 
@@ -44,56 +41,72 @@ User interface requirements
 
 Assumptions and limitations
 
-Project schedule
+Project schedule with dependencies
 
-📊 UML Diagrams
+All abbreviations are articulated before use, and APA 7 standards are followed where citations appear.
+
+2. UML Diagrams
+
+A complete set of diagrams representing system behavior and structure:
 
 Use Case Diagram
 
-Activity Diagram (Schedule Driving Lesson)
+Activity Diagram for Schedule Driving Lesson
 
 Sequence Diagrams
 
-Object Models / Process Models
+Process and Object Modeling Artifacts
 
-⏱ Project Schedule
+These diagrams use correct relationships, system boundaries, and actor roles based on the DriverPass interview transcript.
 
-Gantt chart with realistic task timing
+3. Project Scheduling
 
-Dependencies
+Gantt chart with defined timelines
 
-Team roles
+Task dependencies
+
+Team roles and workflow planning
+
+This section reflects how analysts coordinate system development tasks from requirements gathering through system delivery.
+
+4. System Models and Documentation
+
+Documentation that explains:
+
+How process and object models apply to this scenario
+
+Advantages and limitations of each modeling approach
+
+How different diagrams support system understanding
+
+5. Learning Reflection
+
+A summary of key skills and insights gained throughout CS255, including:
+
+Translating stakeholder interviews into system requirements
+
+Distinguishing goals from measurable objectives
+
+Writing clear, grounded system documentation
+
+Avoiding speculative features or unjustified assumptions
+
+Applying UML modeling techniques accurately
 
 💡 Key Skills Demonstrated
 
 Requirements analysis
 
-UML diagramming
+UML modeling (use case, activity, sequence diagrams)
 
-Activity modeling across swimlanes
+Structured business documentation
 
-Systems documentation
+System scheduling and dependency mapping
 
-Stakeholder communication
+Clear, scholarly technical communication
 
-Application of structured modeling practices
-
-📚 Learning Reflection
-
-A summary of what I learned in CS255:
-
-How to translate interview transcripts into formal system requirements
-
-How to separate goals from measurable objectives
-
-How to identify proper actors, use cases, and system boundaries
-
-How to apply include and extend relationships correctly
-
-How to design readable, non-speculative UML diagrams
-
-How to write clear, grounded system documentation
+Identification of actors, data sources, and sinks
 
 📨 Contact
 
-If you would like to discuss this project or collaborate on systems analysis or software design work, feel free to reach out through GitHub or LinkedIn.
+If you would like to discuss system analysis, business requirements, or software design documentation, feel free to connect with me through GitHub.
